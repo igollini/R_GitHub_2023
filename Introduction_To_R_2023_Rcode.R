@@ -14,6 +14,7 @@ y = log(x) # same as before using the = instead of <-
 ?log # look up help for the function log
 ls() # list of objects in the current workspace
 rm(x) # remove the object x
+3 != 4 # != is the comparison operator for not equal
 
 #######
 #  6  #
